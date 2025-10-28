@@ -24,10 +24,4 @@ print("Subtraction:", sub_result)
 print("Multiplication:", mul_result)
 print("Division:", div_result)
 
-# Conditional statement
-if age >= 18:
-    print("\nYou are an adult.")
-else:
-    print("\nYou are a minor.")
 
-print("\n--- End of Program ---")
